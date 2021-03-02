@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+}
+.main{
+    height: 100vh;
+}
+.navbar {
+    background-color: rgb(119, 10, 70);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.links li {
+    list-style: none;
+    margin-right: 10px;
+   
+}
+.content {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin-right: 10px;
+    background-color: rgb(158, 72, 86);
+    flex: 0.9
+}
+
+.links li {
+        list-style: none;
+        margin-right:
+        flex: 0.9
+}
+.image {
+   
+    flex: 0.3;
+}
