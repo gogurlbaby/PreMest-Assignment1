@@ -22,6 +22,7 @@
     height: 100px;
     color: rgb(32, 54, 32);
     justify-content: space-evenly;
+    font-weight: 10px;
 }
 
 .navbar ul {
@@ -69,7 +70,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    color:white;
+    color: wheat;
 }
        
 
