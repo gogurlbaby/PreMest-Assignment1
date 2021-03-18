@@ -57,13 +57,20 @@ header {
 }
 
 .button {
-    height: 100px;
+    height: 40px;
     width: 100px;
 }
 
 .content-right img { 
     height: 200px;
 }  
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:white;
+}
        
 
 
