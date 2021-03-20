@@ -5,7 +5,7 @@ import MyFourthComponent from './components/MyFourthComponent';
 import MyFifthComponent from './components/MyFifthComponent';
 import MySixthComponent from './components/MySixthComponent';
 import MySeventhComponent from './components/MySeventhComponent';
-import MyEightComponent from './components/MyEightComponent';
+import MyEighthComponent from './components/MyEighthComponent';
 import MyNinthComponent from './components/MyNinthComponent';
 import MyTenthComponent from './components/MyTenthComponent';
 
@@ -22,7 +22,7 @@ function App() {
       <MyFifthComponent/>
       <MySixthComponent/>
       <MySeventhComponent/>
-      <MyEightComponent/>
+      <MyEighthComponent/>
       <MyNinthComponent/>
       <MyTenthComponent/>
     </div>
